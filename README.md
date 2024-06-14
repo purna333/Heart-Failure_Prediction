@@ -1,4 +1,4 @@
-# Heart Failure Prediction App :heart::
+# Heart Failure Prediction App :heart:
 
 Welcome to the Heart Failure Prediction App!!! 
 This project aims to predict the person is has heart Failure or not by using different machine learning models.
