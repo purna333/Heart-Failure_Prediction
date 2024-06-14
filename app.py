@@ -17,8 +17,8 @@ st.write("In This dataset we are going to create a model on predicting the heart
 
 
 #image
-image=Image.open(r"C:\Users\varma\OneDrive\Desktop\Heart Failure Project\heart.jpg")
-st.image(image,caption="Heart",use_column_width=True)
+# image=Image.open(r"C:\Users\varma\OneDrive\Desktop\Heart Failure Project\heart.jpg")
+# st.image(image,caption="Heart",use_column_width=True)
 
 
 left_col,right_col=st.columns(2)
