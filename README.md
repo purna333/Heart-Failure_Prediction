@@ -1,4 +1,4 @@
-# Heart Failure Prediction App :Love:
+# Heart Failure Prediction App :heart::
 
 Welcome to the Heart Failure Prediction App!!! 
 This project aims to predict the person is has heart Failure or not by using different machine learning models.
@@ -49,7 +49,7 @@ The app utilizes the following models for heart failure prediction:
 Each model was trained using a labeled dataset and achieved high accuracy in predicting heart failure.
 
 ## Dataset
-The dataset can be found at 'heart_failure (1).csv'.
+The dataset can be found at [Dataset](https://github.com/purna333/Heart-Failure_Prediction/blob/main/heart_failure.csv)
 
 **_You can view my app by clicking the below link_**
 
