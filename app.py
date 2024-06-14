@@ -66,9 +66,9 @@ if st.button("Predict"):
 # Display the result
     if prediction[0] == 0:
         st.success(f"The model predicts that the patient will survive. Probability of survival: {pred_prob[0][0]:.2f}")
-        image=Image.open(r"C:\Users\varma\OneDrive\Desktop\Heart Failure Project\healthy heart.jpeg")
-        st.image(image,caption="Healthy Heart",width=500)
+        # image=Image.open(r"C:\Users\varma\OneDrive\Desktop\Heart Failure Project\healthy heart.jpeg")
+        # st.image(image,caption="Healthy Heart",width=500)
     else:
         st.error(f"The model predicts that the patient will not survive. Probability of death: {pred_prob[0][1]:.2f}")
-        image=Image.open(r"C:\Users\varma\OneDrive\Desktop\Heart Failure Project\Failured heart.jpeg")
-        st.image(image,caption="Failured Heart",width=500)
+        # image=Image.open(r"C:\Users\varma\OneDrive\Desktop\Heart Failure Project\Failured heart.jpeg")
+        # st.image(image,caption="Failured Heart",width=500)
